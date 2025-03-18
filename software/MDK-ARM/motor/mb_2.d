@@ -1,0 +1,15 @@
+motor\mb_2.o: FreeModbus\modbus\mb.c
+motor\mb_2.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+motor\mb_2.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+motor\mb_2.o: .\FreeModbus\port\port.h
+motor\mb_2.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+motor\mb_2.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+motor\mb_2.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+motor\mb_2.o: .\FreeModbus\modbus\include\mb.h
+motor\mb_2.o: .\FreeModbus\modbus\include\mbport.h
+motor\mb_2.o: .\FreeModbus\modbus\include\mbproto.h
+motor\mb_2.o: .\FreeModbus\modbus\include\mbconfig.h
+motor\mb_2.o: .\FreeModbus\modbus\include\mbframe.h
+motor\mb_2.o: .\FreeModbus\modbus\include\mbfunc.h
+motor\mb_2.o: .\FreeModbus\modbus\rtu\mbrtu.h
+motor\mb_2.o: .\FreeModbus\modbus\ascii\mbascii.h
